@@ -11,7 +11,7 @@ namespace ClienteMVCVacio.Controllers
 
         public string Saludar(string nombre)
         {
-            return "Hola : " + nombre;
+            return "Hola Sr. : " + nombre;
         }
     }
 }
