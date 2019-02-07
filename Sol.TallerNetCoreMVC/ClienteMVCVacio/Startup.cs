@@ -8,11 +8,12 @@ namespace ClienteMVCVacio
 {
     public class Startup
     {
-        public IConfiguration Configuration;
+        public IConfiguration _configuration;
 
+        //LANZAR LA CONFIGURACIÓN
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
+            _configuration = configuration;
         }
 
         // This method gets called by the runtime. Use this method to add services to the container.
