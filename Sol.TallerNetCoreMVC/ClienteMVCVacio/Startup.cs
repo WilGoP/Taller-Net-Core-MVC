@@ -39,7 +39,7 @@ namespace ClienteMVCVacio
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World! XDD");
+                await context.Response.WriteAsync("Hello World! XDD" /*+ " " + _configuration.GetConnectionString("DefaultConnection")*/);
             });
         }
     }
