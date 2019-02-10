@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Sol.TallerNetCoreMVC.Servicio
+namespace Sol.TallerNetCoreMVC.Aplication
 {
     public class Program
     {

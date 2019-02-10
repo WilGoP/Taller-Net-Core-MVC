@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace Sol.TallerNetCoreMVC.Servicio
+namespace Sol.TallerNetCoreMVC.Service
 {
     public class Startup
     {
