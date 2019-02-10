@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteMVCVacio", "ClienteMVCVacio\ClienteMVCVacio.csproj", "{B4E6D38C-A8B4-4F7C-A2CC-730512D45323}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClienteMVCVacio", "ClienteMVCVacio\ClienteMVCVacio.csproj", "{B4E6D38C-A8B4-4F7C-A2CC-730512D45323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sol.TallerNetCoreMVC.Servicio", "Sol.TallerNetCoreMVC.Servicio\Sol.TallerNetCoreMVC.Servicio.csproj", "{18C28786-B899-4318-8D57-B70385247360}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B4E6D38C-A8B4-4F7C-A2CC-730512D45323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4E6D38C-A8B4-4F7C-A2CC-730512D45323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4E6D38C-A8B4-4F7C-A2CC-730512D45323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C28786-B899-4318-8D57-B70385247360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C28786-B899-4318-8D57-B70385247360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C28786-B899-4318-8D57-B70385247360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C28786-B899-4318-8D57-B70385247360}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
